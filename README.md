@@ -43,7 +43,7 @@ Incluye un **frontend en React** con un diseño profesional y funcional.
 - Diseño limpio y moderno
 
 ## 📦 Instalación local
-
+Clonar repositorio: https://github.com/Nicole352/api-rest-usuarios.git
 ### 🐳 Base de datos con Docker
 
 Ejecuta el contenedor Mongo + mongo-express:
